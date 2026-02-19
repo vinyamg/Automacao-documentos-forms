@@ -34,4 +34,4 @@ O objetivo foi reduzir tempo operacional e minimizar erros humanos.
 ## Observações
 
 Este repositório contém uma versão anonimizada do projeto, sem dados sensíveis ou integrações específicas do ambiente corporativo.
-Portanto o uso não será possível.
+Portanto o uso não será possível em sua forma total.
