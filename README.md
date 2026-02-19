@@ -29,7 +29,7 @@ O objetivo foi reduzir tempo operacional e minimizar erros humanos.
 - Requests
 - Tkinter
 - Pyautogui
-- Pysseract
+- Pytesseract
 
 ## Observações
 
